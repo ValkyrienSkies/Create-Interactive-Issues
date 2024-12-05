@@ -2,7 +2,7 @@
 name: Bug report
 about: Report a problem you found
 title: ''
-labels: bug
+labels: bug, New version
 
 ---
 **BEFORE REPORTING MAKE SURE:**
